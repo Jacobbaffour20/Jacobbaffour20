@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I’m Jake. I’m currently an apprentice at an automobile mechanic shop specializing in transmission servicing and repairs. I studied Computer Science and Engineering at UMaT and completed my national service at Axxend Corp and the Ghana Revenue Authority.<br><br>I’m learning full-stack web and mobile development in JavaScript, and I’m open to internships, graduate trainee roles, and project collaborations—especially in JavaScript. I earned my AWS Cloud Practitioner certification in 2025.<br><br>Ask me about cars, tech, or music.<br>Fun fact: I’m a mechanic by day, developer by night.
+🔭Hi, I’m Jake. I’m currently an apprentice at an automobile mechanic shop specializing in transmission servicing and repairs. 
+🧑‍🎓I studied Computer Science and Engineering at UMaT and completed my national service at Axxend Corp and the Ghana Revenue Authority.<br><br>📚I’m learning full-stack web and mobile development in JavaScript, and I’m open to internships, graduate trainee roles, and project collaborations—especially in JavaScript.
+🗞️I earned my AWS Cloud Practitioner certification in 2025.<br><br>Ask me about cars🚗, tech👩‍💻, or music🎶.<br>Fun fact: I’m a mechanic🧑‍🔧 by day, developer🧑‍💻 by night.
 
 
 ## 🌐 Socials:
